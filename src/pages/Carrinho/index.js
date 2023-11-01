@@ -1,5 +1,5 @@
-import { Button, Snackbar, InputLabel } from "@material-ui/core";
-import MuiAlert from "@material-ui/lab/Alert";
+import { Button, Snackbar, InputLabel } from "@mui/material";
+import MuiAlert from "@mui/lab/Alert";
 import { useState } from "react";
 import {
   Container,
